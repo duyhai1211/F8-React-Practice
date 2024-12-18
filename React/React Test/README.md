@@ -1,5 +1,7 @@
 # React Practice
 
+
+
 ## DOM, React difficult
 
 
@@ -8,4 +10,6 @@
 
 ## JSX
 
+## Props
 
+## Components
