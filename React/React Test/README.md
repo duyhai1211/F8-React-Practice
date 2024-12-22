@@ -1,6 +1,6 @@
-# Tổng Hợp Kiến Thức React 
+# Tổng Hợp Kiến Thức ReactJS
 
-
+## Ôn lại về DOM
 
 ## DOM, React difficult
 
