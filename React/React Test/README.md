@@ -6,7 +6,7 @@
 
 ## Ôn lại kiến thức về JavaScript ES6
 - Arrow funtion (hàm mũi tên)
-- 
+- bị ôms nặng
 
 ## Ôn lại về DOM
 
