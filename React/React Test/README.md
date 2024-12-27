@@ -6,7 +6,7 @@
 
 ## Ôn lại kiến thức về JavaScript ES6
 - Arrow funtion (hàm mũi tên)
-- bị ôms nặng 2, sau đợt này sẽ học + tập thể dục 
+- bị ôms 3, sau đợt này sẽ học + tập thể dục 
 
 ## Ôn lại về DOM
 
